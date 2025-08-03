@@ -1,73 +1,73 @@
-# Welcome to your Lovable project
+# 🌿 Shukrana Creations – Handmade Art & Craft Store
 
-## Project info
+Welcome to the official repository for **Shukrana Creations**, an online storefront dedicated to selling unique, handmade art and craft items. This project is a beautifully designed, lightweight e-commerce website built to showcase and sell handcrafted products that blend creativity with love.
 
-**URL**: https://lovable.dev/projects/bbe2d844-7dce-4945-9497-1bedf2619e80
+---
 
-## How can I edit this code?
+## 🛍 Website Overview
 
-There are several ways of editing your application.
+**Website Name:** Shukrana Creations  
+**URL:** _[Insert your domain here]_  
+**Logo:** Featured in green with white floral hexagonal emblem containing initials "SC"  
+**Theme:** Light and minimal (off-white/pastel colors), with earthy contrast to the brand logo  
+**Purpose:** Provide a simple, elegant, and responsive platform to display and sell handmade products online.
 
-**Use Lovable**
+---
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/bbe2d844-7dce-4945-9497-1bedf2619e80) and start prompting.
+## 🎨 Features
 
-Changes made via Lovable will be committed automatically to this repo.
+- ✨ Clean and elegant UI with a soft pastel/cream background
+- 🖌 Contrasting theme to highlight brand logo and natural art elements
+- 🛒 E-commerce functionality with product categories:
+  - Wall Decor
+  - Personalized Gifts
+  - Accessories
+  - Custom Orders
+- 🖼 Gallery of handcrafted work
+- 📖 About section sharing the brand story
+- 💬 Testimonials and Reviews
+- 📱 Mobile responsive design
+- 📩 Newsletter subscription and contact form
+- 📷 Instagram feed integration
+- 📊 SEO-optimized and analytics ready
 
-**Use your preferred IDE**
+---
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+## 🧰 Tech Stack / Tools
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+> (Add tools/platforms once chosen, e.g. Wix, Shopify, WordPress)
 
-Follow these steps:
+- Website Builder: **Wix** / **Shopify** / **Squarespace** / **WordPress**
+- Domain Hosting: _[e.g., GoDaddy, Hostinger]_
+- Email: _[Optional email used for contact form/newsletter]_
+- Instagram Integration: Embedded via widget
+- Payment Gateway: _[Add here once decided]_
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+---
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+## 🚀 How to Deploy (If using custom hosting)
 
-# Step 3: Install the necessary dependencies.
-npm i
+1. Clone this repository  
+   `git clone https://github.com/your-username/shukrana-creations.git`
+2. Connect your domain via DNS or hosting platform
+3. Set up product inventory via CMS or store backend
+4. Customize and publish
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+---
 
-**Edit a file directly in GitHub**
+## 📄 License
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+This project is open for display, but commercial use of branding (including logo) is **strictly reserved** to Shukrana Creations.
 
-**Use GitHub Codespaces**
+---
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+## 💌 Contact
 
-## What technologies are used for this project?
+- 📧 Email: [your-email@example.com]  
+- 📱 Instagram: [@shukrana.creations](https://instagram.com/shukrana.creations)  
+- 🌐 Website: [your-website-link.com]
 
-This project is built with:
+---
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+> “Crafted with Love. Inspired by Nature.” – Shukrana Creations
 
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/bbe2d844-7dce-4945-9497-1bedf2619e80) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
